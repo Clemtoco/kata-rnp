@@ -26,7 +26,7 @@
 
 8. **Tests Unitaires et d'Intégration** :
    - Écrire des tests unitaires pour chaque API, en particulier pour vérifier le bon comportement des opérations CRUD.
-   - Ajouter des tests d'intégration pour simuler des scénarios d'utilisation complets.
+   - Ajouter des tests d'intégration pour simuler des scénarios d'utilisation complets, comme par exemple un fichier stack.http.
 
 9. **Authentification et Autorisation** :
    - Ajouter une couche de gestion des permissions pour limiter l’accès aux opérations de modification et de suppression de stacks.
